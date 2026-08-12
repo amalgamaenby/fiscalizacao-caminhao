@@ -24,7 +24,9 @@ GitHub e cliquem em **Commit changes** para salvar.
 :::
 
 **Grupo (tipo de veículo):** Caminhão
+
 **Integrantes (máx. 5):** Livia Giovanetti Santos, Amal Souza Brandolisi
+
 ---
 
 ## 1. Regra de velocidade do grupo
@@ -52,11 +54,11 @@ Definam uma sequência de 3 a 5 trechos pelos quais o veículo vai "passar". Par
 cada trecho, anotem o tipo de via e o limite de velocidade.
 
 | Ordem | Tipo de via | Limite (km/h) |
-|---|---|-------------|---------------|
-| 1 | | |   Rodovia   | 
-| 2 | | |    Local    |
-| 3 | | |   Arterial  |   60 km/h     |
-| 4 | | |   Coletora  |   40 km/h
+|---|---|---|
+| 1 | Rodovia | 80/90 |
+| 2 | Local | 30 |
+| 3 | Arterial | 60 |
+| 4 | Coletora | 40 |
 
 
 ## 3. Infraestrutura compartilhada
@@ -70,7 +72,7 @@ usuário/senha e mesma rede em todos:
 - **Rede Wi-Fi (SSID):** `i4` — senha `147258369`
 
 **Prefixo do nosso grupo** (para nomear containers/tópicos MQTT mais pra frente, já que o nó é
-compartilhado): ______________________________________________ *(ex.: `carro`, `onibus`)*
+compartilhado): caminhao *(ex.: `carro`, `onibus`)*
 
 **Nó(s) que testamos hoje:** ______________________________________________
 
