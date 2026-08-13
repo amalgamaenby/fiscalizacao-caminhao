@@ -25,7 +25,7 @@ GitHub e cliquem em **Commit changes** para salvar.
 
 **Grupo (tipo de veículo):** Caminhão
 
-**Integrantes (máx. 5):** Livia Giovanetti Santos, Amal Souza Brandolisi
+**Integrantes (máx. 5):** Livia Giovanetti Santos, Amal Souza Brandolisi, Vinicius Yuji
 
 ---
 
